@@ -1,5 +1,6 @@
 # PALM web-server
 Эксперементальный веб-сервер с возможностью управления при помощи графического пользовательского интерфейса (GUI, PyQt6).
+![image](https://github.com/ald15/palm-web-server/assets/62624802/447f0cc9-bfec-422d-8deb-e231d747db52)
 ## Установка
 Установить зависмости можно так: ```pip install -r requirements.txt```
 ## Запуск
